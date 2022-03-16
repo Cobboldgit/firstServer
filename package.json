@@ -1,0 +1,17 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "this is my first server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "Augustine",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
